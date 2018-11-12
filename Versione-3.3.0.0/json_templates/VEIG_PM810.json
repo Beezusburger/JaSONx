@@ -1,0 +1,352 @@
+{
+  "version": "1.0",
+  "gateway_id": "veig1",
+  "command": "activate-thing",
+  "parameters": {
+				 "interaction_mode": "gateway",
+				 "outbound_communication_modes": ["topic"],
+				 "environment_prefix": "esol_ap07615_prod",
+				 "radio_type": "Eth",
+				 "filter_tag": [  {
+								  "id": 5900000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.IDAvg"
+								  },
+								  {
+								  "id": 11100000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.IND"
+								  },
+								  {
+								  "id": 600000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.WHr"
+								  },
+								  {
+								  "id": 11300000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VA_A"
+								  },
+								  {
+								  "id": 11400000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VA_B"
+								  },
+								  {
+								  "id": 11500000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VA_C"
+								  },
+								  {
+								  "id": 7800000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VARHr_I"
+								  },
+								  {
+								  "id": 7900000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VARHr_O"
+								  },
+								  {
+								  "id": 6100000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.PFTtl"
+								  },
+								  {
+								  "id": 9400000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.IAD"
+								  },
+								  {
+								  "id": 9900000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.PkIAD"
+								  },
+								  {
+								  "id": 200000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.WTtl"
+								  },
+								  {
+								  "id": 8700000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VARA"
+								  },
+								  {
+								  "id": 8800000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VARB"
+								  },
+								  {
+								  "id": 9500000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.IBD"
+								  },
+								  {
+								  "id": 8900000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VARC"
+								  },
+								  {
+								  "id": 9100000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VARD"
+								  },
+								  {
+								  "id": 10000000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.PkIBD"
+								  },
+								  {
+								  "id": 8500000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VA_Ttl"
+								  },
+								  {
+								  "id": 9600000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.ICD"
+								  },
+								  {
+								  "id": 10100000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.PkICD"
+								  },
+								  {
+								  "id": 7002000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VARHr"
+								  },
+								  {
+								  "id": 10501000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_VAB"
+								  },
+								  {
+								  "id": 10801000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_VAN"
+								  },
+								  {
+								  "id": 10601000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_VBC"
+								  },
+								  {
+								  "id": 8300000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VLLAvg"
+								  },
+								  {
+								  "id": 10901000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_VBN"
+								  },
+								  {
+								  "id": 10500000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDVAB"
+								  },
+								  {
+								  "id": 10800000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDVAN"
+								  },
+								  {
+								  "id": 10701000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_VCA"
+								  },
+								  {
+								  "id": 11001000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_VCN"
+								  },
+								  {
+								  "id": 10600000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDVBC"
+								  },
+								  {
+								  "id": 8000000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VAB"
+								  },
+								  {
+								  "id": 9300000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VAD"
+								  },
+								  {
+								  "id": 300000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.WA"
+								  },
+								  {
+								  "id": 400000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.WB"
+								  },
+								  {
+								  "id": 500000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.WC"
+								  },
+								  {
+								  "id": 5801000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.WD"
+								  },
+								  {
+								  "id": 10900000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDVBN"
+								  },
+								  {
+								  "id": 800000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VAN"
+								  },
+								  {
+								  "id": 10700000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDVCA"
+								  },
+								  {
+								  "id": 8100000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VBC"
+								  },
+								  {
+								  "id": 11000000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDVCN"
+								  },
+								  {
+								  "id": 900000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VBN"
+								  },
+								  {
+								  "id": 8200000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VCA"
+								  },
+								  {
+								  "id": 1000000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VCN"
+								  },
+								  {
+								  "id": 11200000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VAHr"
+								  },
+								  {
+								  "id": 5300000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.IA"
+								  },
+								  {
+								  "id": 5400000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.IB"
+								  },
+								  {
+								  "id": 5500000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.IC"
+								  },
+								  {
+								  "id": 600000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.WHr_I"
+								  },
+								  {
+								  "id": 1100000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.WHr_O"
+								  },
+								  {
+								  "id": 6000000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.IN"
+								  },
+								  {
+								  "id": 5600000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.Hz"
+								  },
+								  {
+								  "id": 11600000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDIA"
+								  },
+								  {
+								  "id": 11700000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDIB"
+								  },
+								  {
+								  "id": 11800000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.THDIC"
+								  },
+								  {
+								  "id": 11601000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_IA"
+								  },
+								  {
+								  "id": 11701000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_IB"
+								  },
+								  {
+								  "id": 11801000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.thd_IC"
+								  },
+								  {
+								  "id": 8400000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VLNAvg"
+								  },
+								  {
+								  "id": 8600000,
+								  "period": 900,
+								  "tag": "METER_01012716379420_Resource-5.VARTtl"
+								  },
+								  {
+								   "id": 500,
+								   "tag": "CommunicationCode",
+								   "period": 3600,
+								   "trendType": "CommCodeValue"
+								 }
+				 ],
+				 "meter_name": "METER_01012716379420_Resource-5",
+				 "device_type": "fhttps",
+				 "serial_number": "DN18178SE000029",
+				 "model": "Schneider_PM810",
+				 "user_name": "GRT_Q05_GW05",
+				 "password": "BxmJsFerPR",
+				 "file_format": {
+								 "type": "xml",
+								 "root_element": "XML",
+								 "data_element": "action/MeterData",
+								 "value_element": "Value",
+								 "tag_element": "MeterLocalId",
+								 "timestamp_element": "AcquisitionDateTime",
+								 "timestamp_format": "yyyy-MM-DDTHH:mm:ss.SSS"
+								},
+				 "row_filter": {
+								"column_name": "",
+								"value": ""
+							   },
+				 "file_name_filter": {
+									  "regex_pattern": "([a-zA-Z0-9_]*)_\\d{14}_\\d{14}",
+									  "match_group_value": "ComX510_GRT_Q05_GW05"
+									 },
+				 "maker": "METER_01012716379420_Resource-5"
+				}
+}
