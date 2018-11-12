@@ -1,0 +1,125 @@
+{
+    "version": "1.0",
+    "gateway_id": "veig1",
+    "command": "activate-thing",
+    "parameters": {
+        "interaction_mode": "gateway",
+        "outbound_communication_modes": [
+            "topic"
+        ],
+        "environment_prefix": "esol_ap07615_prod",
+        "radio_type": "Eth",
+        "filter_tag": [
+            {
+                "id": 10300000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.MMXU1_Ares"
+            },
+            {
+                "id": 9400000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.IAD"
+            },
+            {
+                "id": 9500000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.IBD"
+            },
+            {
+                "id": 10400000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.XCBR1_CBChaMot_Tm"
+            },
+            {
+                "id": 9600000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.ICD"
+            },
+            {
+                "id": 6401000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.XCBR1_CBTripTm"
+            },
+            {
+                "id": 9700000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.XCBR1_Pos"
+            },
+            {
+                "id": 12300000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.IUnbalW"
+            },
+            {
+                "id": 5300000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.IA"
+            },
+            {
+                "id": 5400000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.IB"
+            },
+            {
+                "id": 5500000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.IC"
+            },
+            {
+                "id": 10200000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.XCBR1_CBClsPosCnt"
+            },
+            {
+                "id": 9800000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.SCBR1_TtlCumA2"
+            },
+            {
+                "id": 9900000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.PkIAD"
+            },
+            {
+                "id": 10000000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.PkIBD"
+            },
+            {
+                "id": 10100000,
+                "period": 900,
+                "tag": "METER_00055016379168_Resource-0.PkICD"
+            },
+            {
+                "id": 500,
+                "tag": "CommunicationCode",
+                "period": 3600,
+                "trendType": "CommCodeValue"
+            }
+        ],
+        "meter_name": "METER_00055016379168_Resource-0",
+        "device_type": "fhttps",
+        "serial_number": "DN18177SE000088",
+        "model": "VEIG_SCH_20SPM",
+        "user_name": "ASasASas",
+        "password": "rd23dw12qwd",
+        "file_format": {
+            "type": "xml",
+            "root_element": "XML",
+            "data_element": "action/MeterData",
+            "value_element": "Value",
+            "tag_element": "MeterLocalId",
+            "timestamp_element": "AcquisitionDateTime",
+            "timestamp_format": "yyyy-MM-DDTHH:mm:ss.SSS"
+        },
+        "row_filter": {
+            "column_name": "",
+            "value": ""
+        },
+        "file_name_filter": {
+            "regex_pattern": "([a-zA-Z0-9_]*)_\\d{14}_\\d{14}",
+            "match_group_value": "ComX510_FOG_Q02_GW02"
+        },
+        "maker": "METER_00055016379168_Resource-0"
+    }
+}

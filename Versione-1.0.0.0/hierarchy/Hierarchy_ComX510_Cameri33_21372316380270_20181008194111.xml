@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<XML>
+<action type="update"><Site schema="Default" version="1.0.0"><LocalId>21372316380270</LocalId><Name>Cameri33</Name></Site><Building schema="Default" version="1.0.0"><LocalId>21372316380270_AREA ESTERNA</LocalId><Name>AREA ESTERNA</Name><SiteLocalId>21372316380270</SiteLocalId></Building><BuildingStorey schema="Default" version="1.0.0"><LocalId>21372316380270_AREA ESTERNA_STRADALE</LocalId><Name>STRADALE</Name><BuildingLocalId>21372316380270_AREA ESTERNA</BuildingLocalId></BuildingStorey><Space schema="Default" version="1.0.0"><LocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocalId><Name>POZZO 5</Name><BuildingStoreyLocalId>21372316380270_AREA ESTERNA_STRADALE</BuildingStoreyLocalId></Space><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-7.dV_dt_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_2.Water Volume Flow Rate</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³/s</UnitInput><UnitOutput>m³/h</UnitOutput><Factor>3599.999712000023</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-8.dV_dt_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_3.Water Volume Flow Rate</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³/s</UnitInput><UnitOutput>m³/h</UnitOutput><Factor>3599.999712000023</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-9.dV_dt_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_4.Water Volume Flow Rate</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³/s</UnitInput><UnitOutput>m³/h</UnitOutput><Factor>3599.999712000023</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-10.V_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_5.Water Volume</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³</UnitInput><UnitOutput>m³</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-10.dV_dt_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_5.Water Volume Flow Rate</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³/s</UnitInput><UnitOutput>m³/h</UnitOutput><Factor>3599.999712000023</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-9.V_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_4.Water Volume</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³</UnitInput><UnitOutput>m³</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-8.V_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_3.Water Volume</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³</UnitInput><UnitOutput>m³</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-7.V_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_2.Water Volume</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³</UnitInput><UnitOutput>m³</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-6.V_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_1.Water Volume</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³</UnitInput><UnitOutput>m³</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-5.V_water</LocalId><Name>CAM‐GW33‐AC05_P05.Water Volume</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³</UnitInput><UnitOutput>m³</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-5.dV_dt_water</LocalId><Name>CAM‐GW33‐AC05_P05.Water Volume Flow Rate</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³/s</UnitInput><UnitOutput>m³/h</UnitOutput><Factor>3599.999712000023</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_21372316380270_Resource-6.dV_dt_water</LocalId><Name>CAM‐GW33‐AC05_P05_RISERVA_1.Water Volume Flow Rate</Name><Description>SerialNumber=DN18191SE000002
+TimeZone=Europe/Paris
+Usage=Process
+Commodity=Water
+Site=Cameri33 , Building=AREA ESTERNA , Floor=STRADALE , Zone=POZZO 5
+Physical Location=POZZO 5
+</Description><UnitInput>m³/s</UnitInput><UnitOutput>m³/h</UnitOutput><Factor>3599.999712000023</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>21372316380270_AREA ESTERNA_STRADALE_POZZO 5</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter></action></XML>

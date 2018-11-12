@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<XML>
+<action type="update"><Site schema="Default" version="1.0.0"><LocalId>19022516380272</LocalId><Name>Cameri10</Name></Site><Building schema="Default" version="1.0.0"><LocalId>19022516380272_F9A</LocalId><Name>F9A</Name><SiteLocalId>19022516380272</SiteLocalId></Building><BuildingStorey schema="Default" version="1.0.0"><LocalId>19022516380272_F9A_TERRA</LocalId><Name>TERRA</Name><BuildingLocalId>19022516380272_F9A</BuildingLocalId></BuildingStorey><Space schema="Default" version="1.0.0"><LocalId>19022516380272_F9A_TERRA_PARETE SUD-EST</LocalId><Name>PARETE SUD-EST</Name><BuildingStoreyLocalId>19022516380272_F9A_TERRA</BuildingStoreyLocalId></Space><Space schema="Default" version="1.0.0"><LocalId>19022516380272_F9A_TERRA_QUADRO</LocalId><Name>QUADRO</Name><BuildingStoreyLocalId>19022516380272_F9A_TERRA</BuildingStoreyLocalId></Space><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDVCA</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage C-A THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WHrAIn</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active energy delivered A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VARTtl</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Reactive Power</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VAr</UnitInput><UnitOutput>VAr</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WHrCIn</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active energy delivered C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VBN</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage B-N</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VBN</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage B-N</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDIA</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Current A THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDVCN</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage C-N THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDIB</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Current B THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDIC</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Current C THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.IA</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Current A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.PkICD</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Peak Demand Current C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.IB</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Current B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.IC</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Current C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VAHrIn</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Apparent energy delivered</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VAh</UnitInput><UnitOutput>VAh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.PkIAD</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Peak Demand Current A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VLLAvg</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage L-L Avg</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VCA</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage C-A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VCA</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage C-A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.IN</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Current N</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WHrBIn</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active energy delivered B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDVAB</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage A-B THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VCN</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage C-N</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VCN</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage C-N</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.Hz</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Frequency</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>Hz</UnitInput><UnitOutput>Hz</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDVAN</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage A-N THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WHr_I</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active energy delivered</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WTtl</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active Power</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VA_Ttl</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Apparent Power</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VA</UnitInput><UnitOutput>VA</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.IA</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Current A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.PkIBD</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Peak Demand Current B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.IB</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Current B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WHr_O</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active energy received</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.IC</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Current C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VARA</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Reactive Power A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VAr</UnitInput><UnitOutput>VAr</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VAHrIn</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Apparent energy delivered</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VAh</UnitInput><UnitOutput>VAh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VARB</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Reactive Power B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VAr</UnitInput><UnitOutput>VAr</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VLLAvg</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage L-L Avg</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VARC</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Reactive Power C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VAr</UnitInput><UnitOutput>VAr</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.PFTtl</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Power Factor</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.IN</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Current N</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDVBC</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage B-C THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WHrBIn</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active energy delivered B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDVAB</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage A-B THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WA</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active Power A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WB</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active Power B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WC</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active Power C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VA_A</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Apparent Power A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VA</UnitInput><UnitOutput>VA</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VA_B</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Apparent Power B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VA</UnitInput><UnitOutput>VA</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VA_C</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Apparent Power C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VA</UnitInput><UnitOutput>VA</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDIA</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Current A THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDIB</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Current B THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDVBN</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage B-N THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.Hz</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Frequency</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>Hz</UnitInput><UnitOutput>Hz</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDIC</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Current C THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDVAN</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage A-N THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WTtl</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active Power</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.PkICD</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Peak Demand Current C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VA_Ttl</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Apparent Power</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VA</UnitInput><UnitOutput>VA</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VARA</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Reactive Power A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VAr</UnitInput><UnitOutput>VAr</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VLNAvg</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage L-N Avg</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VARB</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Reactive Power B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VAr</UnitInput><UnitOutput>VAr</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.PkIAD</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Peak Demand Current A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VARC</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Reactive Power C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VAr</UnitInput><UnitOutput>VAr</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VAB</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage A-B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VAB</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage A-B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDVCA</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage C-A THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VARHr_I</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Reactive energy delivered</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VArh</UnitInput><UnitOutput>VArh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VARTtl</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Reactive Power</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VAr</UnitInput><UnitOutput>VAr</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VARHr_I</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Reactive energy delivered</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VArh</UnitInput><UnitOutput>VArh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WHrAIn</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active energy delivered A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WHrCIn</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active energy delivered C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDVBC</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage B-C THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VARHr_O</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Reactive energy received</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>VArh</UnitInput><UnitOutput>VArh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WA</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active Power A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VARHr_O</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Reactive energy received</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VArh</UnitInput><UnitOutput>VArh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WB</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active Power B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VAN</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage A-N</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.WC</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Active Power C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VA_A</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Apparent Power A</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VA</UnitInput><UnitOutput>VA</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VAN</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage A-N</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VA_B</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Apparent Power B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VA</UnitInput><UnitOutput>VA</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VA_C</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Apparent Power C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>VA</UnitInput><UnitOutput>VA</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.THDVCN</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage C-N THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.THDVBN</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage B-N THD</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WHr_I</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active energy delivered</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.PkIBD</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Peak Demand Current B</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.WHr_O</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Active energy received</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VLNAvg</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage L-N Avg</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.PFTtl</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Power Factor</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-1.VBC</LocalId><Name>CAM‐GW10‐ EE34_TOT_Q_5.Voltage B-C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE EDIFICIO
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_19022516380272_Resource-2.VBC</LocalId><Name>CAM‐GW10‐ EE35_TOT_Q_5.1.Voltage B-C</Name><Description>SerialNumber=DN18191SE000001
+TimeZone=Europe/Paris
+Usage=MainMeter
+Commodity=Electricity
+Site=Cameri10 , Building=F9A , Floor=TERRA , Zone=QUADRO
+Physical Location=GENERALE UTA
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>19022516380272_F9A_TERRA_QUADRO</LocationLocalId><LocationTypeName>IfcSpace</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter></action></XML>

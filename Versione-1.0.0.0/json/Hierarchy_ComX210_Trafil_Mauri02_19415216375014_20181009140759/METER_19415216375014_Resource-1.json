@@ -1,0 +1,150 @@
+{
+    "version": "1.0",
+    "gateway_id": "veig1",
+    "command": "activate-thing",
+    "parameters": {
+        "interaction_mode": "gateway",
+        "outbound_communication_modes": [
+            "topic"
+        ],
+        "environment_prefix": "esol_ap07615_prod",
+        "radio_type": "Eth",
+        "filter_tag": [
+            {
+                "id": 7100000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.WHrAIn"
+            },
+            {
+                "id": 600000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.WHr_I"
+            },
+            {
+                "id": 7300000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.WHrCIn"
+            },
+            {
+                "id": 7200000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.WHrBIn"
+            },
+            {
+                "id": 900000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.VBN"
+            },
+            {
+                "id": 8200000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.VCA"
+            },
+            {
+                "id": 1000000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.VCN"
+            },
+            {
+                "id": 6100000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.PFTtl"
+            },
+            {
+                "id": 200000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.WTtl"
+            },
+            {
+                "id": 5300000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.IA"
+            },
+            {
+                "id": 5400000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.IB"
+            },
+            {
+                "id": 5500000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.IC"
+            },
+            {
+                "id": 8000000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.VAB"
+            },
+            {
+                "id": 800000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.VAN"
+            },
+            {
+                "id": 8100000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.VBC"
+            },
+            {
+                "id": 8300000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.VLLAvg"
+            },
+            {
+                "id": 8400000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.VLNAvg"
+            },
+            {
+                "id": 300000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.WA"
+            },
+            {
+                "id": 400000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.WB"
+            },
+            {
+                "id": 500000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.WC"
+            },
+            {
+                "id": 5600000,
+                "period": 900,
+                "tag": "METER_19415216375014_Resource-1.Hz"
+            },
+            {
+                "id": 500,
+                "tag": "CommunicationCode",
+                "period": 3600,
+                "trendType": "CommCodeValue"
+            }
+        ],
+        "meter_name": "METER_19415216375014_Resource-1",
+        "device_type": "fhttps",
+        "serial_number": "DN17332SE000086",
+        "model": "VEIG_SCH_IEM3250",
+        "user_name": "admin",
+        "password": "password",
+        "file_format": {
+            "type": "xml",
+            "root_element": "XML",
+            "data_element": "action/MeterData",
+            "value_element": "Value",
+            "tag_element": "MeterLocalId",
+            "timestamp_element": "AcquisitionDateTime",
+            "timestamp_format": "yyyy-MM-DDTHH:mm:ss.SSS"
+        },
+        "row_filter": {
+            "column_name": "",
+            "value": ""
+        },
+        "file_name_filter": {
+            "regex_pattern": "([a-zA-Z0-9_]*)_\\d{14}_\\d{14}",
+            "match_group_value": "ComX210_TRafil_MAuri"
+        },
+        "maker": "METER_19415216375014_Resource-1"
+    }
+}

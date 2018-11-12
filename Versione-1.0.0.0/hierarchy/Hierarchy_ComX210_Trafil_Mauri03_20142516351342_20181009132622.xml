@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<XML>
+<action type="update"><Site schema="Default" version="1.0.0"><LocalId>20142516351342</LocalId><Name>Trafil_Mauri03</Name></Site><Building schema="Default" version="1.0.0"><LocalId>20142516351342_Cabina5</LocalId><Name>Cabina5</Name><SiteLocalId>20142516351342</SiteLocalId></Building><BuildingStorey schema="Default" version="1.0.0"><LocalId>20142516351342_Cabina5_PT</LocalId><Name>PT</Name><BuildingLocalId>20142516351342_Cabina5</BuildingLocalId></BuildingStorey><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.WHrAIn</LocalId><Name>TRM-GW03-EE09-PR_08.Active energy delivered A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.WA</LocalId><Name>TRM-GW03-EE12-PR_11.Active Power A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.WB</LocalId><Name>TRM-GW03-EE12-PR_11.Active Power B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.VBN</LocalId><Name>TRM-GW03-EE08-PR_07.Voltage B-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.WC</LocalId><Name>TRM-GW03-EE12-PR_11.Active Power C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.VBN</LocalId><Name>TRM-GW03-EE10-PR_09.Voltage B-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.VBN</LocalId><Name>TRM-GW03-EE12-PR_11.Voltage B-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.Hz</LocalId><Name>TRM-GW03-EE11-PR_10.Frequency</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Hz</UnitInput><UnitOutput>Hz</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.WTtl</LocalId><Name>TRM-GW03-EE12-PR_11.Active Power</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.VLNAvg</LocalId><Name>TRM-GW03-EE12-PR_11.Voltage L-N Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.VCA</LocalId><Name>TRM-GW03-EE08-PR_07.Voltage C-A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.VCA</LocalId><Name>TRM-GW03-EE10-PR_09.Voltage C-A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.VCA</LocalId><Name>TRM-GW03-EE12-PR_11.Voltage C-A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.WHrCIn</LocalId><Name>TRM-GW03-EE12-PR_11.Active energy delivered C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.WHrAIn</LocalId><Name>TRM-GW03-EE08-PR_07.Active energy delivered A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.VCN</LocalId><Name>TRM-GW03-EE08-PR_07.Voltage C-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.VCN</LocalId><Name>TRM-GW03-EE10-PR_09.Voltage C-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.VCN</LocalId><Name>TRM-GW03-EE12-PR_11.Voltage C-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.WHr_I</LocalId><Name>TRM-GW03-EE11-PR_10.Active energy delivered</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.WTtl</LocalId><Name>TRM-GW03-EE09-PR_08.Active Power</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.VLNAvg</LocalId><Name>TRM-GW03-EE11-PR_10.Voltage L-N Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.IA</LocalId><Name>TRM-GW03-EE09-PR_08.Current A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.IB</LocalId><Name>TRM-GW03-EE09-PR_08.Current B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.IC</LocalId><Name>TRM-GW03-EE09-PR_08.Current C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.PFTtl</LocalId><Name>TRM-GW03-EE08-PR_07.Power Factor</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.PFTtl</LocalId><Name>TRM-GW03-EE12-PR_11.Power Factor</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.WHrCIn</LocalId><Name>TRM-GW03-EE11-PR_10.Active energy delivered C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.WA</LocalId><Name>TRM-GW03-EE10-PR_09.Active Power A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.WB</LocalId><Name>TRM-GW03-EE10-PR_09.Active Power B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.WC</LocalId><Name>TRM-GW03-EE10-PR_09.Active Power C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.Hz</LocalId><Name>TRM-GW03-EE09-PR_08.Frequency</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Hz</UnitInput><UnitOutput>Hz</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.IA</LocalId><Name>TRM-GW03-EE12-PR_11.Current A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.IB</LocalId><Name>TRM-GW03-EE12-PR_11.Current B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.IC</LocalId><Name>TRM-GW03-EE12-PR_11.Current C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.VLNAvg</LocalId><Name>TRM-GW03-EE10-PR_09.Voltage L-N Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.VLLAvg</LocalId><Name>TRM-GW03-EE12-PR_11.Voltage L-L Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.VAB</LocalId><Name>TRM-GW03-EE09-PR_08.Voltage A-B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.VAB</LocalId><Name>TRM-GW03-EE11-PR_10.Voltage A-B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.WHrBIn</LocalId><Name>TRM-GW03-EE12-PR_11.Active energy delivered B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.WHrCIn</LocalId><Name>TRM-GW03-EE10-PR_09.Active energy delivered C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.VAN</LocalId><Name>TRM-GW03-EE09-PR_08.Voltage A-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.VAN</LocalId><Name>TRM-GW03-EE11-PR_10.Voltage A-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.Hz</LocalId><Name>TRM-GW03-EE12-PR_11.Frequency</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Hz</UnitInput><UnitOutput>Hz</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.WHr_I</LocalId><Name>TRM-GW03-EE08-PR_07.Active energy delivered</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.WTtl</LocalId><Name>TRM-GW03-EE11-PR_10.Active Power</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.WHr_I</LocalId><Name>TRM-GW03-EE12-PR_11.Active energy delivered</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.VLNAvg</LocalId><Name>TRM-GW03-EE09-PR_08.Voltage L-N Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.VLLAvg</LocalId><Name>TRM-GW03-EE11-PR_10.Voltage L-L Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.PFTtl</LocalId><Name>TRM-GW03-EE09-PR_08.Power Factor</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.VBC</LocalId><Name>TRM-GW03-EE09-PR_08.Voltage B-C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.VBC</LocalId><Name>TRM-GW03-EE11-PR_10.Voltage B-C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.WHrBIn</LocalId><Name>TRM-GW03-EE11-PR_10.Active energy delivered B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.WHrCIn</LocalId><Name>TRM-GW03-EE09-PR_08.Active energy delivered C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.VBN</LocalId><Name>TRM-GW03-EE09-PR_08.Voltage B-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.WA</LocalId><Name>TRM-GW03-EE08-PR_07.Active Power A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.WB</LocalId><Name>TRM-GW03-EE08-PR_07.Active Power B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.VBN</LocalId><Name>TRM-GW03-EE11-PR_10.Voltage B-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.WC</LocalId><Name>TRM-GW03-EE08-PR_07.Active Power C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.WTtl</LocalId><Name>TRM-GW03-EE08-PR_07.Active Power</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.IA</LocalId><Name>TRM-GW03-EE10-PR_09.Current A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.IB</LocalId><Name>TRM-GW03-EE10-PR_09.Current B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.IC</LocalId><Name>TRM-GW03-EE10-PR_09.Current C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.VLLAvg</LocalId><Name>TRM-GW03-EE10-PR_09.Voltage L-L Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.VLNAvg</LocalId><Name>TRM-GW03-EE08-PR_07.Voltage L-N Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.VCA</LocalId><Name>TRM-GW03-EE09-PR_08.Voltage C-A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.VCA</LocalId><Name>TRM-GW03-EE11-PR_10.Voltage C-A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.WHrAIn</LocalId><Name>TRM-GW03-EE12-PR_11.Active energy delivered A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.WHrBIn</LocalId><Name>TRM-GW03-EE10-PR_09.Active energy delivered B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.WA</LocalId><Name>TRM-GW03-EE11-PR_10.Active Power A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.WHrCIn</LocalId><Name>TRM-GW03-EE08-PR_07.Active energy delivered C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.WB</LocalId><Name>TRM-GW03-EE11-PR_10.Active Power B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.VCN</LocalId><Name>TRM-GW03-EE09-PR_08.Voltage C-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.WC</LocalId><Name>TRM-GW03-EE11-PR_10.Active Power C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.VCN</LocalId><Name>TRM-GW03-EE11-PR_10.Voltage C-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.Hz</LocalId><Name>TRM-GW03-EE10-PR_09.Frequency</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Hz</UnitInput><UnitOutput>Hz</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.WHr_I</LocalId><Name>TRM-GW03-EE09-PR_08.Active energy delivered</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.VLLAvg</LocalId><Name>TRM-GW03-EE09-PR_08.Voltage L-L Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.PFTtl</LocalId><Name>TRM-GW03-EE10-PR_09.Power Factor</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.WHrAIn</LocalId><Name>TRM-GW03-EE11-PR_10.Active energy delivered A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.WHrBIn</LocalId><Name>TRM-GW03-EE09-PR_08.Active energy delivered B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.WTtl</LocalId><Name>TRM-GW03-EE10-PR_09.Active Power</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.IA</LocalId><Name>TRM-GW03-EE08-PR_07.Current A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.IB</LocalId><Name>TRM-GW03-EE08-PR_07.Current B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.IC</LocalId><Name>TRM-GW03-EE08-PR_07.Current C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.VLLAvg</LocalId><Name>TRM-GW03-EE08-PR_07.Voltage L-L Avg</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.VAB</LocalId><Name>TRM-GW03-EE08-PR_07.Voltage A-B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.VAB</LocalId><Name>TRM-GW03-EE10-PR_09.Voltage A-B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.VAB</LocalId><Name>TRM-GW03-EE12-PR_11.Voltage A-B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.WHrAIn</LocalId><Name>TRM-GW03-EE10-PR_09.Active energy delivered A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.WHrBIn</LocalId><Name>TRM-GW03-EE08-PR_07.Active energy delivered B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.WA</LocalId><Name>TRM-GW03-EE09-PR_08.Active Power A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.VAN</LocalId><Name>TRM-GW03-EE08-PR_07.Voltage A-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.WB</LocalId><Name>TRM-GW03-EE09-PR_08.Active Power B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.VAN</LocalId><Name>TRM-GW03-EE10-PR_09.Voltage A-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-1.WC</LocalId><Name>TRM-GW03-EE09-PR_08.Active Power C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>W</UnitInput><UnitOutput>W</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.VAN</LocalId><Name>TRM-GW03-EE12-PR_11.Voltage A-N</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.Hz</LocalId><Name>TRM-GW03-EE08-PR_07.Frequency</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Hz</UnitInput><UnitOutput>Hz</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.WHr_I</LocalId><Name>TRM-GW03-EE10-PR_09.Active energy delivered</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>Wh</UnitInput><UnitOutput>Wh</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>true</IsAccumulated><GroupOperation>SUM</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.IA</LocalId><Name>TRM-GW03-EE11-PR_10.Current A</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.IB</LocalId><Name>TRM-GW03-EE11-PR_10.Current B</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.IC</LocalId><Name>TRM-GW03-EE11-PR_10.Current C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>A</UnitInput><UnitOutput>A</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-0.VBC</LocalId><Name>TRM-GW03-EE08-PR_07.Voltage B-C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-2.VBC</LocalId><Name>TRM-GW03-EE10-PR_09.Voltage B-C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-3.PFTtl</LocalId><Name>TRM-GW03-EE11-PR_10.Power Factor</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput></UnitInput><UnitOutput></UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter><Meter schema="Default" version="1.0.0"><LocalId>METER_20142516351342_Resource-4.VBC</LocalId><Name>TRM-GW03-EE12-PR_11.Voltage B-C</Name><Description>SerialNumber=DN16329SE000027
+TimeZone=GMT
+Usage=custom_Servizi_Principali
+Commodity=Electricity
+Site=Trafil_Mauri03 , Building=Cabina5 , Floor=PT , Zone=
+Physical Location=Cabina5
+</Description><UnitInput>V</UnitInput><UnitOutput>V</UnitOutput><Factor>1.0</Factor><Offset>0.0</Offset><IsAccumulated>false</IsAccumulated><GroupOperation>AVG</GroupOperation><IsAcquisitionDateTimeEndInterval>true</IsAcquisitionDateTimeEndInterval><LocationLocalId>20142516351342_Cabina5_PT</LocationLocalId><LocationTypeName>IfcBuildingStorey</LocationTypeName><ClassificationItemLocalId>METER_CLASS_UNKNOWN</ClassificationItemLocalId></Meter></action></XML>

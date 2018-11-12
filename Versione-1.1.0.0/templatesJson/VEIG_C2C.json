@@ -1,0 +1,48 @@
+{
+                "version": "1.0",
+                "gateway_id": "veig1",
+                "command": "activate-thing",
+                "parameters": {
+                               "interaction_mode": "gateway",
+                               "outbound_communication_modes": ["topic"],
+                               "environment_prefix": "esol_ap07615_prod",
+                               "radio_type": "Eth",
+                              "filter_tag": [{
+                                                               "id": 600000,
+                                                               "period": 3600,
+                                                               "tag": "METER00077_EM.001.005.017.EN_ATTIVA"
+                                               }, {
+                               "id": 500,
+                               "tag": "CommunicationCode",
+                               "period": 3600,
+                               "trendType": "CommCodeValue"
+                       }
+                               ],
+                               "meter_name": "EATT_GEN_GLOBO",
+                               "device_type": "fhttps",
+                               "serial_number": "EM.001.005.017",
+                               "model": "iEM2150",
+                               "user_name": "conad101",
+                               "password": "V1010300",
+                               "client_name": "conad.conad101",
+                               "client_secret": "H&jasPUC1@h300C5!$LD",
+                               "file_format": {
+                                               "type": "xml",
+                                               "root_element": "XML",
+                                               "data_element": "action/MeterData",
+                                               "value_element": "Value",
+                                               "tag_element": "MeterLocalId",
+                                               "timestamp_element": "AcquisitionDateTime",
+                                               "timestamp_format": "yyyy-MM-DDTHH:mm:ss"
+                               },
+                               "row_filter": {
+                                               "column_name": "",
+                                               "value": ""
+                               },
+                               "file_name_filter": {
+                                               "regex_pattern": "itemsXML_([a-zA-Z0-9_]*)_\\d{4}-\\d{2}-\\d{2}",
+                                               "match_group_value": "Sogiper_Monte_S_Angelo"
+                               },
+                               "maker": "Inspiring"
+                }
+}

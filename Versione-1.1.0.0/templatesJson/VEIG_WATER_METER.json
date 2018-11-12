@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "gateway_id": "veig1",
+  "command": "activate-thing",
+  "parameters": {
+				 "interaction_mode": "gateway",
+				 "outbound_communication_modes": ["topic"],
+				 "environment_prefix": "esol_ap07615_prod",
+				 "radio_type": "Eth",
+				 "filter_tag": [  {
+								  "id": 6600000,
+								  "period": 900,
+								  "tag": "METER_14161816379658_Resource-0.V_water"
+								  },
+								  {
+								  "id": 9200000,
+								  "period": 900,
+								  "tag": "METER_14161816379658_Resource-0.dV_dt_water"
+								  },
+								  {
+								   "id": 500,
+								   "tag": "CommunicationCode",
+								   "period": 3600,
+								   "trendType": "CommCodeValue"
+								 }
+				 ],
+				 "meter_name": "METER_14161816379658_Resource-0",
+				 "device_type": "fhttps",
+				 "serial_number": "DN18184SE000011",
+				 "model": "Schneider_iEM3455",
+				 "user_name": "CIS_Q12_GW12",
+				 "password": "UALvuCNtTG",
+				 "file_format": {
+								 "type": "xml",
+								 "root_element": "XML",
+								 "data_element": "action/MeterData",
+								 "value_element": "Value",
+								 "tag_element": "MeterLocalId",
+								 "timestamp_element": "AcquisitionDateTime",
+								 "timestamp_format": "yyyy-MM-DDTHH:mm:ss.SSS"
+								},
+				 "row_filter": {
+								"column_name": "",
+								"value": ""
+							   },
+				 "file_name_filter": {
+									  "regex_pattern": "([a-zA-Z0-9_]*)_\\d{14}_\\d{14}",
+									  "match_group_value": "ComX510_CisternaLT12"
+									 },
+				 "maker": "METER_14161816379658_Resource-0"
+				}
+}

@@ -1,0 +1,66 @@
+{
+    "JsonImpulsi": {
+        "measuresMax": 2,
+        "measuresSelected": 2
+    },
+    "VEIG_C2C": {
+        "measuresMax": 1,
+        "measuresSelected": 1
+    },
+    "VEIG_Compaq_NSXE": {
+        "measuresMax": 56,
+        "measuresSelected": 56
+    },
+    "VEIG_FLUSSI_GAS": {
+        "measuresMax": 2,
+        "measuresSelected": 2
+    },
+    "VEIG_M2C_FIT": {
+        "measuresMax": 1,
+        "measuresSelected": 1
+    },
+    "VEIG_PM9C": {
+        "measuresMax": 26,
+        "measuresSelected": 26
+    },
+    "VEIG_PM510": {
+        "measuressMax": 47,
+        "measuresSelected": 47
+    },
+    "VEIG_PM810": {
+        "measuressMax": 62,
+        "measuresSelected": 62
+    },
+    "VEIG_SCH_20SPM": {
+        "measuressMax": 16,
+        "measuresSelected": 16
+    },
+    "VEIG_SCH_2155": {
+        "measuressMax": 11,
+        "measuresSelected": 11
+    },
+    "VEIG_SCH_3255_3455_355_EE1_EE4_EE5": {
+        "measuressMax": 30,
+        "measuresSelected": 30
+    },
+    "VEIG_SCH_FDM211": {
+        "measuressMax": 67,
+        "measuresSelected": 67
+    },
+    "VEIG_SCH_IEM3250": {
+        "measuressMax": 21,
+        "measuresSelected": 21
+    },
+    "VEIG_SEPAM_S40": {
+        "measuressMax": 30,
+        "measuresSelected": 30
+    },
+    "VEIG_WATER_METER": {
+        "measuressMax": 2,
+        "measuresSelected": 2
+    },
+    "VEIG_PM3250": {
+        "measuressMax": 46,
+        "measuresSelected": 46
+    }
+}

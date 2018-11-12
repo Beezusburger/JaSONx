@@ -1,0 +1,37 @@
+{
+    "600000": {
+        "channel": "1",
+        "multipler": "0.001",
+        "active" : "True"
+    },
+
+    "7800000": {
+        "channel": "1356",
+        "multipler": "0.001",
+        "active" : "False"
+    },
+
+    "7002000": {
+        "channel": "1356",
+        "multipler": "0.001",
+        "active" : "False"
+    },
+
+    "6600000": {
+        "channel": "4003",
+        "multipler": "1",
+        "active" : "False"
+    },
+
+    "6501000": {
+        "channel": "4000",
+        "multipler": "1",
+        "active" : "False"
+    },
+    
+    "8600000": {
+        "channel": "1356",
+        "multipler": "0.001",
+        "active" : "False"
+    }
+}

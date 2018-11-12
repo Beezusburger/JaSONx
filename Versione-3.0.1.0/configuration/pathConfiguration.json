@@ -1,0 +1,7 @@
+{
+    "json_templates_path": "json_templates",
+    "excel_templates_path": "excel_templates",
+    "json_files_path": "json_files",
+    "excel_files_path": "excel_files",
+    "hierarchy_path": "hierarchy"
+}

@@ -1,0 +1,7 @@
+{
+    "templatesPath": "templatesJson",
+    "templatesExcelPath": "templatesExcel",
+    "jsonPath": "json_files",
+    "excelPath": "excel_files",
+    "hierarchyPath": "hierarchy"
+}

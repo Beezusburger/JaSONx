@@ -1,0 +1,52 @@
+{
+  "version": "1.0",
+  "gateway_id": "veig1",
+  "command": "activate-thing",
+  "parameters": {
+				 "interaction_mode": "gateway",
+				 "outbound_communication_modes": ["topic"],
+				 "environment_prefix": "esol_ap07615_prod",
+				 "radio_type": "Eth",
+				 "filter_tag": [{
+								  "id": 600000,
+								  "period": 60,
+								  "tag": "METER_00061216379586_Resource-1.WHr"
+								  },
+								  {
+								  "id": 200000,
+								  "period": 60,
+								  "tag": "METER_00061216379586_Resource-1.WTtl"
+								  },
+								  {
+								   "id": 500,
+								   "tag": "CommunicationCode",
+								   "period": 3600,
+								   "trendType": "CommCodeValue"
+								 }
+				 ],
+				 "meter_name": "METER_00061216379586_Resource-1",
+				 "device_type": "fhttps",
+				 "serial_number": "DN18179SE000067",
+				 "model": "impulsi",
+				 "user_name": "NOL_Q01_GW01",
+				 "password": "kjxjnPsjkn",
+				 "file_format": {
+								 "type": "xml",
+								 "root_element": "XML",
+								 "data_element": "action/MeterData",
+								 "value_element": "Value",
+								 "tag_element": "MeterLocalId",
+								 "timestamp_element": "AcquisitionDateTime",
+								 "timestamp_format": "yyyy-MM-DDTHH:mm:ss.SSS"
+								},
+				 "row_filter": {
+								"column_name": "",
+								"value": ""
+							   },
+				 "file_name_filter": {
+									  "regex_pattern": "([a-zA-Z0-9_]*)_\\d{14}_\\d{14}",
+									  "match_group_value": "ComX510_NOL_Q01_GW01"
+									 },
+				 "maker": "METER_00061216379586_Resource-1"
+				}
+}
